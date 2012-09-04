@@ -11,3 +11,5 @@ Features:
   - Translation of special operations (array, concatenation, ...) 
   - No dependency, no other library requirement
   - PHP 4 & 5 code compatible
+
+Project page: http://blog.evolya.fr/labo/en/php2js/

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="PHP2JS">
+
+	<property name="project.version" value="1.0" />
+	<property name="project.status" value="stable, public-release" />
+	<property name="project.url" value="http://blog.evolya.fr/labs/en/php2js/" />
+
+</project>
